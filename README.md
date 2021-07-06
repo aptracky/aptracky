@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aptracky
+- 👀 I’m interested in: iOS Devlopment
+- 🌱 I’m currently learning: iOS Development (SwiftUI), Angular
+- 💞️ I’m looking to collaborate on really anything!
+- 📫 How to reach me @andrewpcodes on Twitter
